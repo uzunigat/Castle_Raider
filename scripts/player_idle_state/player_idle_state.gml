@@ -8,7 +8,16 @@ function player_idle_state(){
 	calculate_movement();
 	
 	if hsp != 0 state = states.WALK;
-
+	
+	if attack {
+	
+		state = states.ATTACK;
+		
+		//Set the frame animation at first!!!
+		image_index = 0;
+	
+	}
+	
 	// apply movement
 	collision();
 
