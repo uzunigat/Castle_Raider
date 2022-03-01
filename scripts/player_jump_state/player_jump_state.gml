@@ -23,6 +23,17 @@ function player_jump_state(){
 	
 	}
 	
+	// enable double jump
+	
+	if jump {
+		
+		jumped();
+	
+	}
+	
+	// enable smaller jumps
+	if vsp < 0 and !jump_held vsp = max(vsp, jump_spd/jump_dampner);
+	
 
 	// apply movement
 	collision();

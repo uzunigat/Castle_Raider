@@ -6,6 +6,7 @@
     {"id":{"name":"s_player_crouch","path":"sprites/s_player_crouch/s_player_crouch.yy",},"order":4,},
     {"id":{"name":"player_block_state","path":"scripts/player_block_state/player_block_state.yy",},"order":4,},
     {"id":{"name":"player_crouch_block_state","path":"scripts/player_crouch_block_state/player_crouch_block_state.yy",},"order":6,},
+    {"id":{"name":"jumped","path":"scripts/jumped/jumped.yy",},"order":7,},
     {"id":{"name":"s_player_air_attack","path":"sprites/s_player_air_attack/s_player_air_attack.yy",},"order":0,},
     {"id":{"name":"player_jump_state","path":"scripts/player_jump_state/player_jump_state.yy",},"order":2,},
     {"id":{"name":"s_player_jump","path":"sprites/s_player_jump/s_player_jump.yy",},"order":7,},
