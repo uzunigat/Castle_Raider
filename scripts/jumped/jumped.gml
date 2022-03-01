@@ -7,7 +7,7 @@ function jumped(){
 		state = states.JUMP;
 		vsp = jump_spd;
 		jumps--;
-	
+		jump_dust();
 	
 	}
 
