@@ -7,6 +7,7 @@ max_hsp = 2;
 walk_spd = 1.5;
 hsp_decimal = 0;
 vsp_decimal = 0;
+jump_spd = -5;
 
 // friction
 drag = 0.12;
@@ -21,6 +22,7 @@ right = 0;
 up = 0;
 down = 0;
 attack = 0;
+jump = 0;
 
 // states
 

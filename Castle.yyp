@@ -25,6 +25,7 @@
     {"id":{"name":"s_player_block","path":"sprites/s_player_block/s_player_block.yy",},"order":3,},
     {"id":{"name":"macros","path":"scripts/macros/macros.yy",},"order":5,},
     {"id":{"name":"player_idle_state","path":"scripts/player_idle_state/player_idle_state.yy",},"order":0,},
+    {"id":{"name":"on_ground","path":"scripts/on_ground/on_ground.yy",},"order":6,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
